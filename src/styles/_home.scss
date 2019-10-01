@@ -1,0 +1,40 @@
+// RESPONSIVE STYLES
+@media (max-width: 479px) {
+  #home-image {
+    display: block;
+    height: 100vh;
+  }
+
+  #home-txt {
+    font-size: 50px;
+    height: 100%;
+    width: 80%;
+    margin: 0;
+    padding: 20px;
+  }
+}
+
+@media (min-width: 480px) {
+  #home-image {
+    display: flex;
+    height: 95vh;
+    align-items: center;
+  }
+
+  #home-txt {
+    font-size: 60px;
+    height: auto;
+    width: 40%;
+    margin-left: 20px;
+  }
+}
+
+// REGULAR STYLES
+#home-image {
+  background: url(../images/fs-gala.jpg);
+}
+
+#home-txt {
+  color: white;
+  font-weight: 1000;
+}

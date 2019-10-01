@@ -1,0 +1,42 @@
+.about-container {
+  /* background: url(/images/fs-gala.jpg);
+  background-size: 100vh; */
+  margin-bottom: 2%;
+}
+
+#about-why,
+#about-how {
+  background-color: white;
+  color: black;
+}
+
+#about-what {
+  background-color: rgb(18, 7, 37);
+  color: white;
+}
+
+.about-container h1 {
+  text-align: center;
+  font-size: 40px;
+  font-weight: 600;
+}
+
+.about-container p {
+  text-justify: distribute-all-lines;
+  font-size: 18px;
+}
+
+.about-container li {
+  text-justify: distribute-all-lines;
+  font-size: 18px;
+}
+
+.about-div {
+  padding: 10px 20px;
+  border: 2px solid #eee;
+  border-radius: 20px;
+  box-sizing: border-box;
+  box-shadow: 2px 2px 10px 0 rgb(18, 7, 37);
+  margin: 50px 5% 0 5%;
+  width: 90%;
+}

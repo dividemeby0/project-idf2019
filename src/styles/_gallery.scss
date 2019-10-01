@@ -1,0 +1,49 @@
+.my-list {
+  line-height: 2;
+}
+
+#all-skaters {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin: 3% auto;
+}
+
+.skater-container {
+  width: 30%;
+  text-align: center;
+}
+
+.skater-image {
+  width: 50%;
+}
+
+.go-back-link {
+  margin: 1%;
+}
+
+.go-back-link a {
+  text-decoration: none;
+  font-weight: 800;
+}
+
+.skater-details {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1% 2%;
+}
+
+.single-skater-name {
+  margin: 0 0 1% 0;
+}
+
+.skater-right {
+  margin: auto 2%;
+}
+
+.program-list {
+  line-height: 2;
+}
