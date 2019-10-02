@@ -7,16 +7,22 @@
   flex-direction: row;
   flex-wrap: wrap;
   justify-content: space-between;
-  margin: 3% auto;
+  align-items: baseline;
+  margin: 5% auto;
 }
 
 .skater-container {
-  width: 30%;
+  width: 380px;
+  height: 380px;
+  padding: 10px;
+  margin-bottom: 20px;
   text-align: center;
+  // border: 2px solid rgb(18, 7, 37);
 }
 
 .skater-image {
-  width: 50%;
+  max-width: 280px;
+  max-height: 280px;
 }
 
 .go-back-link {
