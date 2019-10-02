@@ -14,6 +14,9 @@ export default class Navbar extends Component {
         <NavLink className="nav-link" to="/gp101">
           Grand Prix 101
         </NavLink>
+        <NavLink className="nav-link" to="/glossary">
+          Glossary
+        </NavLink>
         <NavLink className="nav-link" to="/ladies">
           Ladies
         </NavLink>

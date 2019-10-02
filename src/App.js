@@ -5,8 +5,9 @@ import { Switch, Route, Redirect } from "react-router-dom";
 
 // Pages:
 import About from "./pages/About";
-import Gallery from "./pages/Gallery";
+// import Gallery from "./pages/Gallery";
 import Gp101 from "./pages/Gp101";
+import Glossary from "./pages/Glossary";
 import Home from "./pages/Home";
 
 // Components:
@@ -19,8 +20,9 @@ function App() {
         <Redirect exact from="/" to="/home" />
         <Route path="/home" component={Home} />
         <Route path="/about" component={About} />
-        <Route path="/gallery" component={Gallery} />
+        {/* <Route path="/gallery" component={Gallery} /> */}
         <Route path="/gp101" component={Gp101} />
+        <Route path="/glossary" component={Glossary} />
       </Switch>
     </div>
   );
