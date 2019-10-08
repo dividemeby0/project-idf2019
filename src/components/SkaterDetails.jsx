@@ -1,6 +1,8 @@
 import React, { Component } from "react";
 import ladies from "../seeds/ladiesdb";
 import men from "../seeds/mendb";
+import pairs from "../seeds/pairsdb";
+import icedance from "../seeds/icedancedb";
 
 export default class SkaterDetails extends Component {
   state = {
@@ -16,6 +18,10 @@ export default class SkaterDetails extends Component {
       this.setState({ skater: men[spotInDb] });
     } else if (skaterDiscipline === "ladies") {
       this.setState({ skater: ladies[spotInDb] });
+    } else if (skaterDiscipline === "pairs") {
+      this.setState({ skater: pairs[spotInDb] });
+    } else if (skaterDiscipline === "icedance") {
+      this.setState({ skater: icedance[spotInDb] });
     }
   }
 
@@ -23,7 +29,7 @@ export default class SkaterDetails extends Component {
     console.log(this.props);
     return (
       <React.Fragment>
-        <div class="go-back-link">
+        <div className="go-back-link">
           <a href={`/${this.state.skater.discipline}`}>
             Go back to skaters gallery
           </a>

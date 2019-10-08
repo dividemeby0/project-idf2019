@@ -4,6 +4,8 @@ import "./styles/main.scss";
 import { Switch, Route, Redirect } from "react-router-dom";
 import ladies from "./seeds/ladiesdb";
 import men from "./seeds/mendb";
+import pairs from "./seeds/pairsdb";
+import icedance from "./seeds/icedancedb";
 import Gallery from "./components/Gallery";
 
 // Pages:
@@ -20,7 +22,9 @@ import SkaterDetails from "./components/SkaterDetails";
 class App extends Component {
   state = {
     men: men,
-    ladies: ladies
+    ladies: ladies,
+    pairs: pairs,
+    icedance: icedance
   };
 
   render() {
@@ -39,6 +43,14 @@ class App extends Component {
           <Route
             path="/ladies"
             render={() => <Gallery skaters={this.state.ladies} />}
+          />
+          <Route
+            path="/pairs"
+            render={() => <Gallery skaters={this.state.pairs} />}
+          />
+          <Route
+            path="/icedance"
+            render={() => <Gallery skaters={this.state.icedance} />}
           />
           <Route path="/skaters/:discipline/:_id" component={SkaterDetails} />
         </Switch>

@@ -13,8 +13,7 @@ const men = [
       "Don't have much to say about Nadeau. Last season was inconsistent, I hope he does better this year.",
     sp: "Wake Child - Don't Fall in Love",
     fs: "?",
-    image:
-      "https://www.nordinfo.com/wp-content/uploads/2017/02/2015-08-10-11-46-01-Nicolas-Nadeau-425x640.jpg"
+    image: "http://images.lpcdn.ca/924x615/201603/18/1159311-nicolas-nadeau.jpg"
   },
   {
     name: "Kévin AYMOZ",
@@ -27,7 +26,7 @@ const men = [
     sp: "Prince - The Question of U",
     fs: "Patrick Watson - Lighthouse",
     image:
-      "https://pbs.twimg.com/profile_images/1128029245702328322/XC9KeuES_400x400.jpg"
+      "http://static1.squarespace.com/static/558a7406e4b0d851414864e5/55a25ddee4b0a8ce0104026a/5c4944528a922d0603f24df2/1548341336209/Screen+Shot+2019-01-23+at+11.56.56+PM.jpg?format=1500w"
   },
   {
     name: "Romain PONSART",
@@ -40,7 +39,7 @@ const men = [
     sp: "Vicente Amigo - Poeta En El Mar",
     fs: "The Greatest Showman",
     image:
-      "http://www2.pictures.zimbio.com/gi/Romain+Ponsart+ISU+World+Team+Trophy+Day+2+a3E506d_Ia1l.jpg"
+      "https://france3-regions.francetvinfo.fr/grand-est/sites/regions_france3/files/styles/top_big/public/assets/images/2015/12/19/romain_ponsart_patinage.jpg?itok=7x8NQiNK"
   },
   {
     name: "Adrien TESSON",
@@ -53,7 +52,7 @@ const men = [
     sp: "Freddie Mercury - Highlander",
     fs: "Muse - Exogenesis Symphony, Ruled by Secrecy",
     image:
-      "https://pbs.twimg.com/profile_images/1044840855792701440/wRFrJ9Fc_400x400.jpg"
+      "https://cdn.radiofrance.fr/s3/cruiser-production/2018/12/aa65d49e-91ef-4e99-8304-92d462c6b2c3/870x489_maxsportsworldtwo450586.jpg"
   },
   {
     name: "Morisi KVITELASHVILI",
@@ -79,7 +78,7 @@ const men = [
     sp: "Fastidious Horses (from 'White Night' soundtrack)",
     fs: "Hans Zimmer - 'The Peacemaker'",
     image:
-      "https://ice.edeaskates.com/wp-content/uploads/sites/2/2015/10/daniel-samohin-02.jpg"
+      "http://www1.pictures.zimbio.com/gi/Daniel+Samohin+Figure+Skating+Winter+Olympics+OK5kRVQyXfUl.jpg"
   },
   {
     name: "Shoma UNO",
@@ -117,8 +116,7 @@ const men = [
     description: "I literally have no opinion about this guy. You're welcome!",
     sp: "?",
     fs: "?",
-    image:
-      "https://upload.wikimedia.org/wikipedia/commons/c/ce/2019_Russian_Figure_Skating_Championships_Anton_Shulepov_2018-12-20_16-22-34.jpg"
+    image: "https://farm66.static.flickr.com/65535/47876506821_d75fc11dee.jpg"
   },
   {
     name: "Sergei VORONOV",
@@ -159,7 +157,7 @@ const men = [
     sp: "One Republic - Love Runs Out",
     fs: "Igor Stravinsky - Petrushka",
     image:
-      "https://upload.wikimedia.org/wikipedia/commons/5/5d/Tomoki_Hiwatashi_3.jpg"
+      "https://dbukjj6eu5tsf.cloudfront.net/sidearm.sites/usafs.sidearmsports.com/images/2019/3/4/02092019_20194cc_sr_m_fs_211_Tomoki_Hiwatashi.jpg"
   }
 ];
 

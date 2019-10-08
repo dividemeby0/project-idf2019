@@ -26,7 +26,7 @@ const ladies = [
     sp: "Max Richter - November",
     fs: "Chopin medley",
     image:
-      "http://www.passion-patinage.com/wp-content/uploads/2015/12/a_l_laurine.jpg"
+      "http://www1.pictures.zimbio.com/gi/Laurine+Lecavelier+ISU+Grand+Prix+Figure+Skating+IYqDtGEzLlnl.jpg"
   },
   {
     name: "Maé-Bérénice MÉITÉ",
@@ -39,7 +39,7 @@ const ladies = [
     sp: "Latin Medley. It's super fun, fyi.",
     fs: "Adele - Hometown Glory",
     image:
-      "https://www.esvitry-club.fr/media/uploaded/sites/325/actualite/5a93b61e12ed5_maeBereniceMeite.jpg"
+      "https://sportdecouverteblog.files.wordpress.com/2017/12/mac3a9-bc3a9rc3a9nice-mec3aftc3a9.jpg?w=840"
   },
   {
     name: "Wakaba HIGUCHI",
@@ -53,7 +53,7 @@ const ladies = [
     sp: "Sia - Bird Set Free",
     fs: "Vicente Amigo - Poeta",
     image:
-      "https://66.media.tumblr.com/3d607aa0582d67432732e44ae2c98567/tumblr_p0q88g2vuR1vljgffo2_540.png"
+      "http://www1.pictures.zimbio.com/gi/Wakaba+Higuchi+86th+Japan+Figure+Skating+Championships+fr5WXgPNwDKl.jpg"
   },
   {
     name: "Kaori SAKAMOTO",
@@ -79,7 +79,7 @@ const ladies = [
     sp: "Max Richter - The Departure (from The Leftovers), November",
     fs: "Twilight Medley (New Moon, Eyes on Fire, Supermassive Black Hole)",
     image:
-      "https://i.pinimg.com/originals/af/a7/8e/afa78ed4bf375107828bf754854be451.jpg"
+      "https://66.media.tumblr.com/d9eb288b022f98d780f1811a7d924c13/tumblr_pee7krw6Ej1vk0py7o1_500.jpg"
   },
   {
     name: "Maria SOTSKOVA",
@@ -119,7 +119,7 @@ const ladies = [
     sp: "Britney Spears - Work Bitch ",
     fs: "Hallelujah",
     image:
-      "https://peopledotcom.files.wordpress.com/2019/03/mariah-bell-5-2000.jpg?w=1539&h=2000"
+      "https://cdn.mainichi.jp/vol1/2019/02/07/20190207p2g00m0sp034000p/9.jpg?1"
   },
   {
     name: "Ting CUI",
@@ -144,8 +144,7 @@ const ladies = [
       "Not much to say about her. She's a host pick, so she's likely to end up at the bottom of the field here. It's fine, she's mostly here to get international experience anyway.",
     sp: "?",
     fs: "?",
-    image:
-      "https://image.jimcdn.com/app/cms/image/transf/dimension=325x1024:format=jpg/path/s1408442f9c5873cb/image/i18612fcfc3b1559a/version/1539361252/image.jpg"
+    image: "https://i.ytimg.com/vi/Q2FJ9_rQsS0/maxresdefault.jpg"
   },
   {
     name: "Yuna SHIRAIWA",
@@ -158,7 +157,7 @@ const ladies = [
     sp: "Concertino Bianco for Piano",
     fs: "Amen soundtrack",
     image:
-      "https://upload.wikimedia.org/wikipedia/commons/b/b7/Photos_%E2%80%93_Junior_World_Championships_2016_%E2%80%93_Ladies_%28Yuna_SHIRAIWA_JPN_%E2%80%93_4th_Place%29_20.jpg"
+      "http://www1.pictures.zimbio.com/gi/86th+Japan+Figure+Skating+Championships+Day+rfBaoPefKnwl.jpg"
   }
 ];
 
