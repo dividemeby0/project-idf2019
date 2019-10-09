@@ -72,7 +72,7 @@ const men = [
     _id: 6,
     discipline: "men",
     country: "Israel",
-    record: "Junior World champion, Two-time Israeli champion",
+    record: "Junior World champion, two-time Israeli champion",
     description:
       "Not much to say about him to be honest. He's a good skater, but he's probably not going to win here.",
     sp: "Fastidious Horses (from 'White Night' soundtrack)",
@@ -88,7 +88,7 @@ const men = [
     record:
       "Olympic silver medalist, Two-time Worlds silver medalist, Four Continents Champion, Two-time Grand Prix Final silver medalist, World Junior Champion, Junior Grand Prix Champion",
     description:
-      "Listen. Shoma is amazing. He's tiny and powerful, has great musicality and interpretation. He really is one of the greats, and he's one of the skaters I'm most excited to see perform live. He has a bit of a 'silver curse', often in second place but rarely winning. It would be nice to see him win gold here.",
+      "Listen. Shoma is amazing. He's tiny and powerful, has great musicality and interpretation. He really is one of the greats, and he's one of the skaters I'm most excited to see perform live. He has a bit of a 'silver curse': often in second place but rarely winning. It would be nice to see him win gold here.",
     sp: "Great Spirit (which is apparently acoustic techno??)",
     fs: "Robyn - Dancing on My Own",
     image:
@@ -101,7 +101,7 @@ const men = [
     country: "Russia",
     record: "European Championiships silver medalist",
     description:
-      "I love Samarin! I'm glad to see him return this season with new programs (he had a Greatest Showman free program last year and... let's just say I'm glad to it go). He's a really solid skater; he medalled at Russian nationals for the past three seasons, which is kind of a big deal.",
+      "I love Samarin! I'm glad to see him return this season with new programs (he had a Greatest Showman free program last year and... let's just say I'm glad to see it go). He's a really solid skater; he medalled at Russian nationals for the past three seasons, which is kind of a big deal.",
     sp: "Eddy Louis - Blues for Klook",
     fs: "Apashe - Good News",
     image:
@@ -126,7 +126,7 @@ const men = [
     record:
       "European Championships silver and bronze medalist, Grand Prix Final bronze medalist",
     description:
-      "31 year-old Sergei is what we call an 'uncle' in the business. But he's still super relevant (he medalled at both of his Grand Prix last season). It's really fun to watch older skaters, it's nice to have full-grown adults in the sport sometimes.",
+      "31 year-old Sergei is what we call an 'uncle' in the business (see the Glossary for more info). But he's still super relevant (he medalled at both of his Grand Prix last season). It's really fun to watch older skaters, it's nice to have full-grown adults in the sport sometimes.",
     sp: "Queen - Somebody To Love",
     fs: "Muse - I Belong To You",
     image:

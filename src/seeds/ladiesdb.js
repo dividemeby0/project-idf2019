@@ -22,7 +22,7 @@ const ladies = [
     country: "France",
     record: "2017 French national champion",
     description:
-      "Laurine had her Grand Prix debut last year and she represented France at Worlds last season. She is perhaps more consistent than Maé-Bérénice Méité, and she is sweet and talented, even though her skating is not my favorite.",
+      "Laurine had her Grand Prix debut last year and she represented France at Worlds last season. She is perhaps a bit more consistent than Maé-Bérénice Méité, and she is sweet and talented, even though her skating is not my favorite.",
     sp: "Max Richter - November",
     fs: "Chopin medley",
     image:

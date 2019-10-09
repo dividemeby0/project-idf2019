@@ -1,6 +1,6 @@
 const pairs = [
   {
-    name: "Miriam Ziegler / Severin Kiefer",
+    name: "Miriam ZIEGLER / Severin KIEFER",
     _id: 1,
     discipline: "pairs",
     country: "Austria",
@@ -12,7 +12,7 @@ const pairs = [
       "http://www1.pictures.zimbio.com/gi/Miriam+Ziegler+Severin+Kiefer+Figure+Skating+ZqPUC8qAVAyl.jpg"
   },
   {
-    name: "Minerva Fabienne Hase / Nolan Seegert",
+    name: "Minerva Fabienne HASE / Nolan SEEGERT",
     _id: 2,
     discipline: "pairs",
     country: "Germany",
@@ -23,7 +23,7 @@ const pairs = [
     image: "https://www.belarus.by/apimages/22397.jpg"
   },
   {
-    name: "Rebecca Ghilardi / Filippo Ambrosini",
+    name: "Rebecca GHILARDI / Filippo AMBROSINI",
     _id: 3,
     discipline: "pairs",
     country: "Italy",
@@ -35,7 +35,7 @@ const pairs = [
       "http://img0.zhytuku.meldingcloud.com/images/zhycms_chinaplus/20190124/7e125409-c8fe-4a8b-9c8d-aa64ed9b7a30.jpg"
   },
   {
-    name: "Anastasia Mishina / Aleksandr Galliamov",
+    name: "Anastasia MISHINA / Aleksandr GALLIAMOV",
     _id: 4,
     discipline: "pairs",
     country: "Russia",
@@ -48,7 +48,7 @@ const pairs = [
       "https://www.goldenskate.com/wp-content/uploads/2019/01/Anastasia-Mishina-and-Aleksandr-Galliamov.jpg"
   },
   {
-    name: "Daria Pavliuchenko / Denis Khodykin",
+    name: "Daria PAVLIUCHENKO / Denis KHODYKIN",
     _id: 5,
     discipline: "pairs",
     country: "Russia",
@@ -61,7 +61,7 @@ const pairs = [
       "https://www.goldenskate.com/wp-content/uploads/2018/05/Daria-Pavlyuchenko-and-Denis-Khodykin.jpg"
   },
   {
-    name: "Ashley Cain-Gribble / Timothy LeDuc",
+    name: "Ashley CAIN-GRIBBLE / Timothy LEDUC",
     _id: 6,
     discipline: "pairs",
     country: "USA",
@@ -73,7 +73,7 @@ const pairs = [
       "https://cdn.vox-cdn.com/thumbor/-G9oOrEvOsgrp54S4aPWLiilyls=/0x45:3000x1526/1200x800/filters:focal(1052x336:1532x816)/cdn.vox-cdn.com/uploads/chorus_image/image/58365535/870156300.jpg.0.jpg"
   },
   {
-    name: "Haven Denney / Brandon Frazier",
+    name: "Haven DENNEY / Brandon FRAZIER",
     _id: 7,
     discipline: "pairs",
     country: "USA",

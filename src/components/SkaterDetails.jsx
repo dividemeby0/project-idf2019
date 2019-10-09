@@ -56,11 +56,19 @@ export default class SkaterDetails extends Component {
             </p>
             <ul className="program-list">
               <li>
-                <span className="program-title">Short program: </span>
+                {this.state.skater.discipline === "icedance" ? (
+                  <span className="program-title">Rhythm dance: </span>
+                ) : (
+                  <span className="program-title">Short program: </span>
+                )}
                 <span> {this.state.skater.sp}</span>
               </li>
               <li>
-                <span className="program-title">Free skate: </span>
+                {this.state.skater.discipline === "icedance" ? (
+                  <span className="program-title">Free dance: </span>
+                ) : (
+                  <span className="program-title">Free skate: </span>
+                )}
                 <span> {this.state.skater.fs}</span>
               </li>
             </ul>

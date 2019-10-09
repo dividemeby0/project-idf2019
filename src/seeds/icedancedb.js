@@ -1,12 +1,12 @@
 const icedance = [
   {
-    name: "Carolane Soucisse / Shane Firus",
+    name: "Carolane SOUCISSE / Shane FIRUS",
     _id: 1,
     discipline: "icedance",
     country: "Canada",
     record: "2018 Four Continents silver medalists",
     description:
-      "I like them a lot (maybe because Carolane Soucisse is the best name I've ever heard, who knows) and their rhythm dance this season is super fun. Unfortunately, they have consistency issues and tend to hurt themselves during their performances (though ice dance is usually the only discipline where usually don't wipe out too much). I really with them a great outing in Grenoble.",
+      "I like them a lot (maybe because Carolane Soucisse is the best name I've ever heard, who knows) and their rhythm dance this season is super fun. Unfortunately, they have consistency issues and tend to hurt themselves during their performances (though ice dance is usually the only discipline where don't wipe out too often). I really wish them a great outing in Grenoble.",
     sp:
       "Frankie Valli & The Four Seasons - December, 1963 (Oh, What a Night), Can't Take My Eyes Off You",
     fs: "Tom Jones - It's Not Unusual, Without Love, Sex Bomb",
@@ -14,7 +14,7 @@ const icedance = [
       "https://images.radio-canada.ca/q_auto,w_1250/v1/ici-info/sports/16x9/carolane-soucisse-shane-firus-patinage-artistique.jpg"
   },
   {
-    name: "Marie-Jade Lauriault / Romain Le Gac",
+    name: "Marie-Jade LAURIAULT / Romain LE GAC",
     _id: 2,
     discipline: "icedance",
     country: "France",
@@ -27,12 +27,12 @@ const icedance = [
       "https://www.passionsports49.fr/wp-content/uploads/2018/05/RomainLeGacMarieJadeLauriaultFigure6ujypCdofg6l.jpg"
   },
   {
-    name: "Gabriella Papadakis / Guillaume Cizeron",
+    name: "Gabriella PAPADAKIS / Guillaume CIZERON",
     _id: 3,
     discipline: "icedance",
     country: "France",
     record:
-      "Four-time World champions, Olympic silver medalists, Five-time European champions, 2017 Grand Prix Final winners, Five-time French national champions",
+      "Four-time World champions, Olympic silver medalists, five-time European champions, 2017 Grand Prix Final winners, Five-time French national champions",
     description:
       "The best ice dance team in the world at the moment. They have TONS of world records and medals. They are so famous that they tend to be overscored these days but they're still the class of the field and they are absolutely gorgeous to watch. Their free program this season is their signature style: contemporary, contemplative and poetic, while their rhythm dance is upbeat and fun. This should be a treat.",
     sp: "Fame soundtrack",
@@ -41,7 +41,7 @@ const icedance = [
       "https://www.letelegramme.fr/images/2018/02/07/gabriella-papadakis-et-guillaume-cizeron-ne-participeront_3810648_495x330p.jpg?v=1"
   },
   {
-    name: "Julia Wagret / Pierre Souquet",
+    name: "Julia WAGRET / Pierre SOUQUET",
     _id: 4,
     discipline: "icedance",
     country: "France",
@@ -53,21 +53,21 @@ const icedance = [
     image: "https://i.ytimg.com/vi/AYVZOUOc6es/maxresdefault.jpg"
   },
   {
-    name: "Charlène Guignard / Marco Fabbri",
+    name: "Charlène GUIGNARD / Marco FABBRI",
     _id: 5,
     discipline: "icedance",
     country: "Italy",
     record:
       "European bronze medalists, Grand Prix Final bronze medalists, Italian national champions",
     description:
-      "Here's one nice thing about ice dance: you actually get skaters who remain competitive after 30. Charlène and Marco have been here forever (they competed at the Olympics twice, and were in the top 10 last time)but they're still a very, very strong team. I love Charlène, she has strong features and she's super expressive, and the level of performance she has with Marco can only be achieved through years and years of partnership. I hope they get a spot on the podium here, they definitely deserve it.",
+      "Here's one nice thing about ice dance: you actually get skaters who remain competitive after 30. Charlène and Marco have been here forever (they competed at the Olympics twice, and were in the top 10 last time) but they're still a very, very strong team. I love Charlène, she has strong features and she's super expressive, and the level of performance she has with Marco can only be achieved through years and years of partnership. I hope they get a spot on the podium here, they definitely deserve it.",
     sp: "Paramour from Cirque du Soleil",
     fs: "David Bowie - Space Oddity, Life on Mars",
     image:
       "https://images.glaciermedia.ca/polopoly_fs/1.23524088.1544337960!/fileImage/httpImage/image.jpg_gen/derivatives/landscape_804/johv531518555-jpg.jpg"
   },
   {
-    name: "Natalia Kaliszek / Maksym Spodyriev",
+    name: "Natalia KALISZEK / Maksym SPODYRIEV",
     _id: 6,
     discipline: "icedance",
     country: "Poland",
@@ -80,12 +80,12 @@ const icedance = [
       "https://v.wpimg.pl/NjU4Ni5qJwN6AnZZTV49DCJEYB5FEioEe0QiRkYWERklUS0AVB06DzRHKxtqGWFfNAwsCwwULVlnVXZfDC5_UmUHeFwNR2AAJVM="
   },
   {
-    name: "Tiffany Zahorski / Jonathan Guerreiro",
+    name: "Tiffany ZAHORSKI / Jonathan GUERREIRO",
     _id: 7,
     discipline: "icedance",
     country: "Russia",
     record:
-      "No medals at big events (yet), but plenty of medals from lesser international competitions.",
+      "No medals at any big events (yet), but plenty of medals from lesser international competitions.",
     description:
       "I don't know these people. Fun fact: Zahorski used to compete for France with her former partner. That's about the extent of my knowledge.",
     sp: "The Greatest Showman",
@@ -94,7 +94,7 @@ const icedance = [
       "https://66.media.tumblr.com/2f9db9f21e02f57e49aead6606b9a788/tumblr_p4mcr4CfWt1rnltoyo1_500.png"
   },
   {
-    name: "Olivia Smart / Adrian Diaz",
+    name: "Olivia SMART / Adrian DIAZ",
     _id: 8,
     discipline: "icedance",
     country: "Spain",
@@ -107,7 +107,7 @@ const icedance = [
       "https://t.resfu.com/media/img_news/agencia-efe_multimedia_3822507.multimedia.photos.14865578.file.jpg?size=776x&q=60"
   },
   {
-    name: "Madison Chock / Evan Bates",
+    name: "Madison CHOCK / Evan BATES",
     _id: 9,
     discipline: "icedance",
     country: "USA",
@@ -121,7 +121,7 @@ const icedance = [
       "https://www.goldenskate.com/wp-content/uploads/2019/02/Madison-Chock-and-Evan-Bates.jpg"
   },
   {
-    name: "Lorraine McNamara / Quinn Carpenter",
+    name: "Lorraine McNAMARA / Quinn CARPENTER",
     _id: 10,
     discipline: "icedance",
     country: "USA",
