@@ -1,3 +1,35 @@
+// RESPONSIVE STYLES
+
+@media (max-width: 1200px) {
+  #all-skaters {
+    justify-content: center;
+  }
+
+  .skater-container {
+    margin-bottom: 7px;
+  }
+
+  .skater-name {
+    margin: 10px auto;
+  }
+
+  .skater-country {
+    margin: 10px auto;
+  }
+}
+
+@media (min-width: 1201px) {
+  #all-skaters {
+    justify-content: space-between;
+  }
+
+  .skater-container {
+    margin-bottom: 20px;
+  }
+}
+
+// REGULAR STYLES
+
 .my-list {
   line-height: 2;
 }
@@ -11,7 +43,6 @@
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
-  justify-content: space-between;
   align-items: baseline;
   margin: auto auto 5% auto;
 }
@@ -19,8 +50,8 @@
 .skater-container {
   width: 380px;
   height: 380px;
+  max-height: 50vh;
   padding: 10px;
-  margin-bottom: 20px;
   text-align: center;
   // border: 2px solid rgb(18, 7, 37);
 }

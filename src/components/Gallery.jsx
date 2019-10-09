@@ -20,11 +20,11 @@ export default function Gallery({ skaters }) {
                   src={skater.image}
                   alt="skater pic"
                 />
-                <h3>{skater.name}</h3>
+                <h3 className="skater-name">{skater.name}</h3>
               </Link>
               <div>
                 {" "}
-                <p>{skater.country}</p>
+                <p className="skater-country">{skater.country}</p>
               </div>
             </div>
           </React.Fragment>

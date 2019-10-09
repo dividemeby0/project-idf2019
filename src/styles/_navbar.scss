@@ -2,6 +2,7 @@
 @media (max-width: 670px) {
   nav {
     flex-wrap: wrap;
+    padding: 15px 15px 15px 5px;
   }
   .nav-link {
     padding: 15px;
@@ -10,6 +11,10 @@
 }
 
 @media (min-width: 671px) {
+  nav {
+    padding: 15px;
+  }
+
   .nav-link {
     font-size: 20px;
   }
@@ -18,7 +23,6 @@
 // REGULAR STYLES
 nav {
   background: rgb(18, 7, 37);
-  padding: 15px;
   height: 5%;
   width: 100%;
   display: flex;
