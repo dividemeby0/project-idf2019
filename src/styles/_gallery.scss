@@ -2,13 +2,18 @@
   line-height: 2;
 }
 
+.gallery-title {
+  text-align: center;
+  font-size: 45px;
+}
+
 #all-skaters {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
   justify-content: space-between;
   align-items: baseline;
-  margin: 5% auto;
+  margin: auto auto 5% auto;
 }
 
 .skater-container {
@@ -23,33 +28,4 @@
 .skater-image {
   height: 200px;
   width: 300px;
-}
-
-.go-back-link {
-  margin: 1%;
-}
-
-.go-back-link a {
-  text-decoration: none;
-  font-weight: 800;
-}
-
-.skater-details {
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;
-  align-items: center;
-  padding: 1% 2%;
-}
-
-.single-skater-name {
-  margin: 0 0 1% 0;
-}
-
-.skater-right {
-  margin: auto 2%;
-}
-
-.program-list {
-  line-height: 2;
 }

@@ -5,6 +5,13 @@
   }
   .nav-link {
     padding: 15px;
+    font-size: 18px;
+  }
+}
+
+@media (min-width: 671px) {
+  .nav-link {
+    font-size: 20px;
   }
 }
 
@@ -12,7 +19,6 @@
 nav {
   background: rgb(18, 7, 37);
   padding: 15px;
-  // padding-bottom: 10px;
   height: 5%;
   width: 100%;
   display: flex;
@@ -22,9 +28,7 @@ nav {
 .nav-link {
   color: white;
   text-decoration: none;
-  font-size: 20px;
   font-weight: 800;
-  // list-style-type: none;
   text-align: center;
   width: 25%;
 }

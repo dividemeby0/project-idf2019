@@ -26,7 +26,6 @@ export default class SkaterDetails extends Component {
   }
 
   render() {
-    console.log(this.props);
     return (
       <React.Fragment>
         <div className="go-back-link">
@@ -35,25 +34,35 @@ export default class SkaterDetails extends Component {
           </a>
         </div>
 
-        <div class="skater-details">
-          <div class="skater-left">
-            <h1 class="single-skater-name">{this.state.skater.name}</h1>
-            <img src={this.state.skater.image} alt="skater-pic" />
+        <div className="skater-details">
+          <div className="skater-left">
+            <h1 className="single-skater-name">{this.state.skater.name}</h1>
+            <img
+              src={this.state.skater.image}
+              alt={`${this.state.skater.name}`}
+              className="single-skater-pic"
+            />
           </div>
 
-          <div class="skater-right">
+          <div className="skater-right">
             <h2>Representing {this.state.skater.country}</h2>
             <p>
-              <b>Track record: </b> {this.state.skater.record}
+              <b className="details-title">Track record: </b>{" "}
+              {this.state.skater.record}
             </p>
             <p>{this.state.skater.description}</p>
-            <br></br>
             <p>
-              <b>Programs for the season:</b>
+              <b className="details-title">Programs for the season:</b>
             </p>
-            <ul class="program-list">
-              <li>Short program: {this.state.skater.sp}</li>
-              <li>Free skate: {this.state.skater.fs}</li>
+            <ul className="program-list">
+              <li>
+                <span className="program-title">Short program: </span>
+                <span> {this.state.skater.sp}</span>
+              </li>
+              <li>
+                <span className="program-title">Free skate: </span>
+                <span> {this.state.skater.fs}</span>
+              </li>
             </ul>
           </div>
         </div>
