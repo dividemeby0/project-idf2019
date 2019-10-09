@@ -5,7 +5,7 @@ export default function About() {
     <div className="about-container">
       <div id="about-why" className="about-div">
         <h1>Why did I create this nightmare of a website?</h1>
-        <p>I'm a figure skating fan. (Yeah, I know.)</p>
+        <p>I'm a figure skating fan.</p>
         <p>
           My friends are not, but since I'm always nagging them about skating, a
           few of them agreed to go with me to Grenoble in November to attend the{" "}
@@ -14,8 +14,8 @@ export default function About() {
         </p>
         <p>They're great friends, right?</p>
         <p>
-          Unfortunately, they still know next to nothing about the sport, so the
-          goal of this website is to explain to them:
+          Unfortunately, they still don't know much about the sport, therefore
+          the goal of this website is to explain to them:
         </p>
         <ol className="my-list">
           <li>Why this competition is relevant</li>
@@ -23,10 +23,6 @@ export default function About() {
           <li>Who we should be excited to see</li>
         </ol>
         <p>Honestly, I just want everyone to have a good time.</p>
-        <p>
-          NB: This site is incomplete as of yet but I will try to add all the
-          skaters over time.
-        </p>
       </div>
     </div>
   );

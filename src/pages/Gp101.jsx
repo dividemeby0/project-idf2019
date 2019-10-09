@@ -41,8 +41,9 @@ export default function Gp101() {
         </p>
         <p>
           The placement of the skater at each competition will grant them a
-          certain number of points. After the competitions are over, the skaters
-          with the most points get to compete at the <b>Grand Prix Final</b>.
+          certain number of points. After all the competitions are over, the
+          skaters with the most points get to compete at the{" "}
+          <b>Grand Prix Final</b>.
         </p>
         <p>
           The Grand Prix Final will take place in Turin, Italy in December 2019.
@@ -51,8 +52,9 @@ export default function Gp101() {
         </p>
         <p>
           The participants were assigned to their respective Grand Prix
-          competitions on June 20th, so now we know who we are going to see
-          skate in Grenoble and we can finally HOP ON THE HYPE TRAIN.
+          competitions on June 20th. Some changes to the assignments have
+          occurred, but we now have a pretty definitive idea of who we are going
+          to see skate in Grenoble and we can finally HOP ON THE HYPE TRAIN.
         </p>
       </div>
     </div>

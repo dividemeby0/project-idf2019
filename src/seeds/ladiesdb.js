@@ -104,7 +104,8 @@ const ladies = [
     description:
       "I like her a lot, even though I'm scared about her health, be it physical of mental. Her programs can be unbalanced and not well choreographed (hence the small scandal that ensued her Olympic victory: she was accused of having a weaker program that gamified the points system, while skaters with better artistic merit were not rewarded as generously). However, the medals can only lie to an extent, and to me she's an undeniably talented kid who's just doing her best.",
     sp: "Yasmin Levy - Me Voy",
-    fs: "Cringe-y middle-eastern inspired program (Lawrence of Arabia, Ramses)",
+    fs:
+      "Cringeworthy middle-eastern inspired program (Lawrence of Arabia, Ramses)",
     image:
       "https://media1.popsugar-assets.com/files/thumbor/CxdN1eGQBHSlHaet9FZhjKmOvmM/fit-in/2048xorig/filters:format_auto-!!-:strip_icc-!!-/2018/02/22/236/n/1922729/tmp_fyDUtv_03d402aa3cf5afe3_GettyImages-923188442.jpg"
   },
