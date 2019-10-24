@@ -12,7 +12,7 @@ const men = [
     description:
       "Don't have much to say about Nadeau. Last season was inconsistent, I hope he does better this year.",
     sp: "Wake Child - Don't Fall in Love",
-    fs: "?",
+    fs: "Depeche Mode - Enjoy the Silence, It's No Good, I Feel You",
     image: "http://images.lpcdn.ca/924x615/201603/18/1159311-nicolas-nadeau.jpg"
   },
   {
@@ -48,7 +48,7 @@ const men = [
     country: "France",
     record: "French nationals bronze medalist",
     description:
-      "I saw him in The Netherlands but I don't remember him AT ALL, except that he fell several times. Therefore I don't have much of an opinion.",
+      "I saw him in The Netherlands but I don't remember him AT ALL, except that he fell several times. Therefore I don't have much of an opinion. Apparently he's not even going to be there after all, so WHO KNOWS.",
     sp: "Freddie Mercury - Highlander",
     fs: "Muse - Exogenesis Symphony, Ruled by Secrecy",
     image:
@@ -114,8 +114,8 @@ const men = [
     country: "Russia",
     record: "He ranked 10th last season at Russian nationals",
     description: "I literally have no opinion about this guy. You're welcome!",
-    sp: "?",
-    fs: "?",
+    sp: "The Weeknd - Call Out My Name",
+    fs: "John Williams - Schindler's List soundtrack",
     image: "https://farm66.static.flickr.com/65535/47876506821_d75fc11dee.jpg"
   },
   {
@@ -162,14 +162,3 @@ const men = [
 ];
 
 export default men;
-
-// mongoose
-//   .connect(`${process.env.MONGODB_URI}`, { useNewUrlParser: true })
-//   .then(() => {
-//     Skater.insertMany(men)
-//       .then(res => {
-//         console.log(res);
-//         console.log(`${men.length} men added`);
-//       })
-//       .catch(err => console.log(err));
-//   });

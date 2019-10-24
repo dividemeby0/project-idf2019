@@ -74,8 +74,8 @@ const icedance = [
     record: "Five-time Polish national champions",
     description:
       "I don't know them so I don't have a personal opinion, but they seem promising. They were 5th at Europeans last season, and they were the only team at the competition to get a perfect score on their pattern dance (which means: very strong technique). They're also one of those teams who competed to Despacito at the last Olympics. Should be interesting.",
-    sp: "?",
-    fs: "?",
+    sp: "Cyndi Lauper - Everybody Say Yeah (from Kinky Boots)",
+    fs: "Henry Jackman (de la grande famille X-Men) - Puss in Boots soundtrack",
     image:
       "https://v.wpimg.pl/NjU4Ni5qJwN6AnZZTV49DCJEYB5FEioEe0QiRkYWERklUS0AVB06DzRHKxtqGWFfNAwsCwwULVlnVXZfDC5_UmUHeFwNR2AAJVM="
   },
@@ -87,9 +87,9 @@ const icedance = [
     record:
       "No medals at any big events (yet), but plenty of medals from lesser international competitions.",
     description:
-      "I don't know these people. Fun fact: Zahorski used to compete for France with her former partner. That's about the extent of my knowledge.",
-    sp: "The Greatest Showman",
-    fs: "?",
+      "Fun fact: Zahorski used to compete for France with her former partner. I didn't know them before this season, therefore I don't know much. Not the biggest fan of their programs, especially the short dance (I really need to have LESS of the Greatest Showman soundtrack in my life). Their free dance is more impactful, but I'm always upset when someone skates to Survivor without using the original version of the song.",
+    sp: "The Greatest Showman soundtrack",
+    fs: "2Wei - Survivor",
     image:
       "https://66.media.tumblr.com/2f9db9f21e02f57e49aead6606b9a788/tumblr_p4mcr4CfWt1rnltoyo1_500.png"
   },
@@ -121,18 +121,31 @@ const icedance = [
       "https://www.goldenskate.com/wp-content/uploads/2019/02/Madison-Chock-and-Evan-Bates.jpg"
   },
   {
-    name: "Lorraine McNAMARA / Quinn CARPENTER",
+    name: "Allison REED / Saulius AMBRULEVICIUS",
     _id: 10,
     discipline: "icedance",
-    country: "USA",
-    record: "World Junior champions, Junior Grand Prix champions",
+    country: "Lithuania",
+    record: "Lithuanian champions, not many medals aside from that.",
     description:
-      "Not too familiar with this team but I've hear really good things about them so I'm excited to see them skate.",
-    sp: "Liza Minelli - It Was a Good Time, Maybe This Time",
-    fs: "Lauren Daigle - Rescue / Adele - Water Under the Bridge",
+      "They're here as a replacement for McNamara and Carpenter, who had to withdraw for medical resons. I saw them perform last year in Grenoble but I have no recollection of it D:",
+    sp: "Bandstand",
+    fs: "Aurora - Churchyard, It Happened Quiet, Soft Universe",
     image:
-      "https://www.goldenskate.com/wp-content/uploads/2015/05/Lorraine-McNamara-and-Quinn-Carpenter1.jpg"
+      "https://s1.15min.lt/images/photos/2018/03/23/original/allison-reed-ir-saulius-ambrulevicius-5ab50b8071215.jpg"
   }
+  // {
+  //   name: "Lorraine McNAMARA / Quinn CARPENTER",
+  //   _id: 10,
+  //   discipline: "icedance",
+  //   country: "USA",
+  //   record: "World Junior champions, Junior Grand Prix champions",
+  //   description:
+  //     "Not too familiar with this team but I've hear really good things about them so I'm excited to see them skate.",
+  //   sp: "Liza Minelli - It Was a Good Time, Maybe This Time",
+  //   fs: "Lauren Daigle - Rescue / Adele - Water Under the Bridge",
+  //   image:
+  //     "https://www.goldenskate.com/wp-content/uploads/2015/05/Lorraine-McNamara-and-Quinn-Carpenter1.jpg"
+  // }
 ];
 
 export default icedance;

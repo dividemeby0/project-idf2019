@@ -29,8 +29,8 @@ const pairs = [
     country: "Italy",
     record: "Italian nationals silver medalists",
     description: "",
-    sp: "?",
-    fs: "?",
+    sp: "Jason Derulo - Kiss in the Sky",
+    fs: "Ennio Morricone - Once Upon a Time in America soundtrack",
     image:
       "http://img0.zhytuku.meldingcloud.com/images/zhycms_chinaplus/20190124/7e125409-c8fe-4a8b-9c8d-aa64ed9b7a30.jpg"
   },
@@ -55,8 +55,8 @@ const pairs = [
     record:
       "2018 Junior champions, 2018 Junior Grand Prix bronze medalists, 2018 Junior Russian champions",
     description: "",
-    sp: "?",
-    fs: "?",
+    sp: "Havasi - The Storm",
+    fs: "Daft Punk - Tron Legacy soundtrack",
     image:
       "https://www.goldenskate.com/wp-content/uploads/2018/05/Daria-Pavlyuchenko-and-Denis-Khodykin.jpg"
   },
@@ -83,6 +83,18 @@ const pairs = [
     sp: "Quidam (from Cirque du Soleil)",
     fs: "Hans Zimmer - The Lion King",
     image: "https://pbs.twimg.com/media/CuAG7yEWEAAgDxY.jpg"
+  },
+  {
+    name: "Camille RUEST / Andrew WOLFE",
+    _id: 8,
+    discipline: "pairs",
+    country: "Canada",
+    record: "Canadian nationals bronze medalists",
+    description: "",
+    sp: "Max Frost - Let Me Down Easy",
+    fs: "Sleeping at Last - Turning Page",
+    image:
+      "https://images.radio-canada.ca/w_635,h_357/v1/ici-info/sports/16x9/camille-ruest-andrew-wolfe-patinage-artistique.jpg"
   }
 ];
 

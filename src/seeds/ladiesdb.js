@@ -3,17 +3,18 @@
 
 const ladies = [
   {
-    name: "Loena HENDRICKX",
+    name: "Nicole SCHOTT",
     _id: 1,
     discipline: "ladies",
-    country: "Belgium",
-    record: "Number one skater in Belgium",
+    country: "Germany",
+    record: "Number one ladies skater in Germany",
     description:
-      "I like her skating a lot but her international career hasn't really taken off yet, and unfortunately she's been injured for a while last year. I really hope this will be her season.",
-    sp: "Céline Dion - It's All Coming Back to Me Now",
-    fs: "Beyoncé - Fever",
+      "Nicole has been around for a long time, but she's one of those skaters who was never quite talented enough to medal at big, international competitions.",
+    sp: "Beth Hart - Caught Out in the Rain",
+    fs:
+      "Kung Fu Panda soundrack, Crouching Tiger Hidden Dragon soundrack, and Geisha (this might be very racist, I hope not, but we shall see)",
     image:
-      "https://www.loenahendrickx.com/afbeeldingen/1/11707/media-photo/loenahendrixwkkunstschaatsen201901.jpg"
+      "https://www.goldenskate.com/wp-content/uploads/2017/08/Nicole-Schott.jpg"
   },
   {
     name: "Laurine LECAVELIER",
@@ -123,17 +124,17 @@ const ladies = [
       "https://cdn.mainichi.jp/vol1/2019/02/07/20190207p2g00m0sp034000p/9.jpg?1"
   },
   {
-    name: "Ting CUI",
+    name: "Starr ANDREWS",
     _id: 10,
     discipline: "ladies",
     country: "USA",
-    record: "2019 Junior Worlds bronze medalist",
+    record: "She has not won many medals yet, but she has loads of potential!",
     description:
-      "Ting is still a baby! Last season she competed mostly in junior, with only a few senior competitions. This is her first season as a full-on senior lady. I'm not too familiar with her skating, but she seems extremely promising. I just hope she gratuates high school and doesn't break down under the weight of expectations.",
-    sp: "Rhapsody on a Theme of Paganini, by Rachmaninov",
-    fs: "Nocturnal Animals",
+      "I love Starr Andrews! I saw her in The Hague and she won the silver medal there. It's only her second senior season, but she's a well-rounded, talented skater. She has good spins, good posture, pretty good jumps as well... She looks very light on the ice, it's a pleasure to watch her skate. She's also a black skater who isn't French, which is a very rare commodity.",
+    sp: "Christina Aguilera - You Lost Me ",
+    fs: "Richard Strauss - Dance of the Seven Veils, from Salome",
     image:
-      "https://dbukjj6eu5tsf.cloudfront.net/sidearm.sites/usafs.sidearmsports.com/images/2018/11/29/GettyImages_1042889136.jpg"
+      "https://dbukjj6eu5tsf.cloudfront.net/sidearm.sites/usafs.sidearmsports.com/images/2018/10/10/Starr_Andrews.jpg"
   },
   {
     name: "Léa SERNA",
@@ -160,6 +161,32 @@ const ladies = [
     image:
       "http://www1.pictures.zimbio.com/gi/86th+Japan+Figure+Skating+Championships+Day+rfBaoPefKnwl.jpg"
   }
+  // {
+  //   name: "Ting CUI",
+  //   _id: 13,
+  //   discipline: "ladies",
+  //   country: "USA",
+  //   record: "2019 Junior Worlds bronze medalist",
+  //   description:
+  //     "Ting is still a baby! Last season she competed mostly in junior, with only a few senior competitions. This is her first season as a full-on senior lady. I'm not too familiar with her skating, but she seems extremely promising. I just hope she gratuates high school and doesn't break down under the weight of expectations.",
+  //   sp: "Rhapsody on a Theme of Paganini, by Rachmaninov",
+  //   fs: "Nocturnal Animals",
+  //   image:
+  //     "https://dbukjj6eu5tsf.cloudfront.net/sidearm.sites/usafs.sidearmsports.com/images/2018/11/29/GettyImages_1042889136.jpg"
+  // },
+  // {
+  //   name: "Loena HENDRICKX",
+  //   _id: 1,
+  //   discipline: "ladies",
+  //   country: "Belgium",
+  //   record: "Number one skater in Belgium",
+  //   description:
+  //     "I like her skating a lot but her international career hasn't really taken off yet, and unfortunately she's been injured for a while last year. I really hope this will be her season.",
+  //   sp: "Céline Dion - It's All Coming Back to Me Now",
+  //   fs: "Beyoncé - Fever",
+  //   image:
+  //     "https://www.loenahendrickx.com/afbeeldingen/1/11707/media-photo/loenahendrixwkkunstschaatsen201901.jpg"
+  // },
 ];
 
 export default ladies;
